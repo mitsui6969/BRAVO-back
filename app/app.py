@@ -1,3 +1,4 @@
+# ここに集結させる
 from flask import Flask
 from flask_cors import CORS
 from app.db import db
