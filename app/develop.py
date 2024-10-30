@@ -1,4 +1,4 @@
-# 環境構築用　後で消す
+# 環境構築用後で消す
 from flask import jsonify, request
 from flask import Blueprint
 from app.db import db, Item
