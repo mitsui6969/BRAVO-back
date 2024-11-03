@@ -1,0 +1,191 @@
+[
+    {
+        "index": 1,
+        "state": false,
+        "people": 0,
+        "sentence": "第三章 -冷酷の国- 永遠の冬に包まれ、住民たちは凍りついた感情で生きている。"
+    },
+    {
+        "index": 2,
+        "state": false,
+        "people": 1,
+        "sentence": "ここ寒すぎる…凍死しそう"
+    },
+    {
+        "index": 3,
+        "state": false,
+        "people": 1,
+        "sentence": "へっっっっっっくしゅん……"
+    },
+    {
+        "index": 4,
+        "state": false,
+        "people": 1,
+        "sentence": "ジュエルのかけらはこの国の女王様が持っているらしい"
+    },
+    {
+        "index": 5,
+        "state": false,
+        "people": 1,
+        "sentence": "この国の女王様に会いに行こう"
+    },
+    {
+        "index": 6,
+        "state": false,
+        "people": 0,
+        "sentence": "シーン：王宮に入る"
+    },
+    {
+        "index": 7,
+        "state": false,
+        "people": 2,
+        "sentence": "私はこの国を支配する女王だ"
+    },
+    {
+        "index": 8,
+        "state": false,
+        "people": 2,
+        "sentence": "何の用だ"
+    },
+    {
+        "index": 9,
+        "state": false,
+        "people": 1,
+        "sentence": "あなたがジュエルのかけらを持っていると分かり、はるばる鏡の国からやってきました"
+    },
+    {
+        "index": 10,
+        "state": false,
+        "people": 1,
+        "sentence": "そこでお願いなのですが…………ジュエルのかけらを譲っていただきたくて…………"
+    },
+    {
+        "index": 11,
+        "state": false,
+        "people": 1,
+        "sentence": "もしダメなら借りるだけでも…"
+    },
+    {
+        "index": 12,
+        "state": false,
+        "people": 2,
+        "sentence": "なぜだ"
+    },
+    {
+        "index": 13,
+        "state": false,
+        "people": 1,
+        "sentence": "夢の中の誰かが言っていたんです。ジュエルのかけらを全て集めると、世界の真実にたどり着けるだろう、と…"
+    },
+    {
+        "index": 14,
+        "state": false,
+        "people": 2,
+        "sentence": "なるほど"
+    },
+    {
+        "index": 15,
+        "state": false,
+        "people": 2,
+        "sentence": "似たような夢を、以前私も見た"
+    },
+    {
+        "index": 16,
+        "state": false,
+        "people": 2,
+        "sentence": "今日お前が来ることを私は知っていた"
+    },
+    {
+        "index": 17,
+        "state": false,
+        "people": 1,
+        "sentence": "？！"
+    },
+    {
+        "index": 18,
+        "state": false,
+        "people": 2,
+        "sentence": "私はかつて、信頼していた者から裏切られ、ジュエルによってこの国の感情を封じた"
+    },
+    {
+        "index": 19,
+        "state": false,
+        "people": 2,
+        "sentence": "私の心も同様だ。凍ったままだ"
+    },
+    {
+        "index": 20,
+        "state": false,
+        "people": 2,
+        "sentence": "再び心を溶かすわけにはいかない、そして支配を終わらせるわけにはいかない"
+    },
+    {
+        "index": 21,
+        "state": false,
+        "people": 1,
+        "sentence": "すぐに手に入れるのは無理そうだ、どうしよう"
+    },
+    {
+        "index": 22,
+        "state": true,
+        "people": 1,
+        "sentence": [
+            {
+                "id": 1,
+                "content": "女王と対話し、和解を試みる"
+            },
+            {
+                "id": 2,
+                "content": "女王を倒し、国を解放する"
+            }
+        ]
+    },
+    {
+        "index": 23,
+        "state": false,
+        "people": 1,
+        "sentence": "本当に心が凍ったままでいいのですか？過去に何があったのか、教えてくれませんか？"
+    },
+    {
+        "index": 24,
+        "state": false,
+        "people": 2,
+        "sentence": "あなたは悪い人に見えない。私には分かる。過去に何があったのか話そう……………"
+    },
+    {
+        "index": 25,
+        "state": false,
+        "people": 2,
+        "sentence": "君が私にそう言うならば、心を解き放つことにしよう。"
+    },
+    {
+        "index": 26,
+        "state": false,
+        "people": 2,
+        "sentence": "だが、私がかつての痛みと向き合うために、またこの国も変わるだろう"
+    },
+    {
+        "index": 27,
+        "state": false,
+        "people": 0,
+        "sentence": "和解できたが、真実の詳細を知ることは無かった。ジュエルのかけらを手に入れた。"
+    },
+    {
+        "index": 28,
+        "state": false,
+        "people": 1,
+        "sentence": "感情を取り戻すことができないなら、あなたを止めるしかない。国のために、君の支配を終わらせる！"
+    },
+    {
+        "index": 29,
+        "state": false,
+        "people": 2,
+        "sentence": "来るがいい。その選択もまた、自由だ。私を倒すことが国の救いだと思うなら"
+    },
+    {
+        "index": 30,
+        "state": false,
+        "people": 0,
+        "sentence": "ジュエルのかけらを手に入れた。氷の女王を倒したことにより、グレンツェは真実を知ることになる。それは、自分の一族が、かつて世界の分断を招いたことを"
+    }
+]
