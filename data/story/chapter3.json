@@ -15,7 +15,7 @@
         "index": 3,
         "state": false,
         "people": 1,
-        "sentence": "へっっっっっっくしゅん……"
+        "sentence": "へっくしゅん……"
     },
     {
         "index": 4,
@@ -132,11 +132,15 @@
         "sentence": [
             {
                 "id": 1,
-                "content": "女王と対話し、和解を試みる"
+                "content": "女王と対話し、和解を試みる",
+                "start": 22,
+                "end": 26
             },
             {
                 "id": 2,
-                "content": "女王を倒し、国を解放する"
+                "content": "女王を倒し、国を解放する",
+                "start": 27,
+                "end": 29
             }
         ]
     },
