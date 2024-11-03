@@ -13,6 +13,17 @@ class Item(db.Model):
     def __repr__(self):
         return f'<Item {self.name}>'
 
+
+class Choices(db.Model):
+    id = db.Column(db.Integer, primary_key=True)
+    choice = db.Column(db.String(80), nullable=False)
+
+    def __init__(self, choice):
+        self.choice = choice
+
+    def __repr__(self):
+        return f'<Choices {self.index}>'
+
 # データベースの初期化
 def init_db(app):
     with app.app_context():
