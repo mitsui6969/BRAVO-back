@@ -29,9 +29,13 @@ def save_branch():
     choice_num = data.get('choice')
     chapter_num = data.get('chapter')
 
-    # choice_num = request.json['choice']
-    # chapter_num = request.json['chapter']
-    new_choices = Choices(choice=choice_num, chapter=chapter_num)
-    db.session.add(new_choices)
+    existing_choice = Choices.query.filter_by(chapter=chapter_num).first()
+
+    if existing_choice:
+        existing_choice.choice = choice_num
+    else:
+        new_choices = Choices(choice=choice_num, chapter=chapter_num)
+        db.session.add(new_choices)
+
     db.session.commit()
     return jsonify(str(new_choices)), 201
