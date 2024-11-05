@@ -1,0 +1,141 @@
+[
+    {
+        "index": 1,
+        "state": false,
+        "people": 0,
+        "sentence": "第四章 -幻想の国- 濃い霧に包まれた世界。住民たちはジュエルの影響で、次第に自分の記憶を失い、穏やかな忘却に浸っている。"
+    },
+    {
+        "index": 2,
+        "state": false,
+        "people": 1,
+        "sentence": "この国に入ってから、頭がぼーっとするや"
+    },
+    {
+        "index": 3,
+        "state": false,
+        "people": 1,
+        "sentence": "でも、景色が綺麗な国だ"
+    },
+    {
+        "index": 4,
+        "state": false,
+        "people": 0,
+        "sentence": "数日後"
+    },
+    {
+        "index": 5,
+        "state": false,
+        "people": 1,
+        "sentence": "この国の人は、過去の出来事を忘れている"
+    },
+    {
+        "index": 6,
+        "state": false,
+        "people": 1,
+        "sentence": "一体どうなっているんだ"
+    },
+    {
+        "index": 7,
+        "state": false,
+        "people": 3,
+        "sentence": "そうだよ。僕は過去のことは何もかも忘れた、それが幸せだけれどね"
+    },
+    {
+        "index": 8,
+        "state": false,
+        "people": 1,
+        "sentence": "！！…急にびっくりした…"
+    },
+    {
+        "index": 9,
+        "state": false,
+        "people": 3,
+        "sentence": "突然ごめんね。早くこの国から出た方が良いよ"
+    },
+    {
+        "index": 10,
+        "state": false,
+        "people": 1,
+        "sentence": "え？"
+    },
+    {
+        "index": 11,
+        "state": false,
+        "people": 3,
+        "sentence": "君は他の国から来た人でしょ？早く出ないと何もかも忘れちゃうよ"
+    },
+    {
+        "index": 12,
+        "state": false,
+        "people": 1,
+        "sentence": "まだやることがあるから出られないよ"
+    },
+    {
+        "index": 13,
+        "state": false,
+        "people": 1,
+        "sentence": "君たちは大事なことを忘れたままで良いの？"
+    },
+    {
+        "index": 14,
+        "state": false,
+        "people": 3,
+        "sentence": "………"
+    },
+    {
+        "index": 15,
+        "state": true,
+        "people": 1,
+        "sentence": [
+            {
+                "id": 1,
+                "content": "冒険の記憶と引き換えに、住民たちの記憶を取り戻す",
+                "start": 15,
+                "end": 17
+            },
+            {
+                "id": 2,
+                "content": "住民たちの記憶を失わせたままにする",
+                "start": 18,
+                "end": 20
+            }
+        ]
+    },
+    {
+        "index": 16,
+        "state": false,
+        "people": 1,
+        "sentence": "過去を忘れてはいけない。君たちは記憶を取り戻すべきだ。きっと大切な過去があったはずだ。"
+    },
+    {
+        "index": 17,
+        "state": false,
+        "people": 3,
+        "sentence": "君の言葉を信じることにする。"
+    },
+    {
+        "index": 18,
+        "state": false,
+        "people": 0,
+        "sentence": "ジュエルのかけらが光りだし、一つになった。"
+    },
+    {
+        "index": 19,
+        "state": false,
+        "people": 1,
+        "sentence": "君たちにとって、過去を忘れることが幸せなんだろ？このままで良いんだ…"
+    },
+    {
+        "index": 20,
+        "state": false,
+        "people": 3,
+        "sentence": "そう…僕たちは、このままで良いんだ。何も思い出さずに…"
+    },
+    {
+        "index": 21,
+        "state": false,
+        "people": 0,
+        "sentence": "虚無の平穏が訪れた"
+    }
+]
