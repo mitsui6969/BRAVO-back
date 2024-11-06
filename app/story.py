@@ -33,9 +33,11 @@ def save_branch():
 
     if existing_choice:
         existing_choice.choice = choice_num
+        mess = "上書き完了"
     else:
         new_choices = Choices(choice=choice_num, chapter=chapter_num)
         db.session.add(new_choices)
+        mess = "新規保存完了"
 
     db.session.commit()
-    return jsonify(str(new_choices)), 201
+    return jsonify(mess), 201
