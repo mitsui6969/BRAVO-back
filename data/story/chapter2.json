@@ -167,13 +167,13 @@
         "state":true,
         "sentence":[
             {
-            "id":3,
+            "id":1,
             "Content":"住民の欲望を抑える",
             "start":56,
             "end":63
             },
             {
-            "id":4,
+            "id":2,
             "Content":"住民の欲望を受け入れることを王に説得する",
             "start":64,
             "end":68
