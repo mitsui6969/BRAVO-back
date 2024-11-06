@@ -168,13 +168,13 @@
         "sentence":[
             {
             "id":1,
-            "Contents":"彼らに自分を取り戻させる",
+            "Content":"彼らに自分を取り戻させる",
             "start":29,
             "end":34
             },
             {
             "id":2,
-            "Contents":"そのままでいさせる",
+            "Content":"そのままでいさせる",
             "start":35,
             "end":38
             }
