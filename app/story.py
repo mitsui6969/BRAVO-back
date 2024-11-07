@@ -14,9 +14,9 @@ def send_chapter(chapter_id):
     # JSONファイルを読み込んで返す
     if os.path.exists(file_path):
         with open(file_path, 'r', encoding='utf-8') as file:
-            chapter3_data = json.load(file)
+            chapter_data = json.load(file)
         
-        return jsonify(chapter3_data)
+        return jsonify(chapter_data)
     else:
         return jsonify({"error": "Chapter not found"}), 404
     
